@@ -1,0 +1,137 @@
+body html {
+    width: 320px;
+    height: 100%;
+    
+}
+.navbar {
+    background-color: #ffffff;
+} 
+
+.pixabay-logo {
+   
+}
+
+.navbar-nav {
+    margin-left: 50px;
+    color: black;
+}
+
+.nav-item {
+    margin-left: 20px;
+}
+
+.nav-link {
+    color: black;
+}
+
+
+
+.header-inner {
+    padding: 5px 5px 5px 5px;
+    
+    margin-left: 30px;
+    
+}
+
+.btn {
+    background-color: #02be6e;
+    border-radius: 50px;
+    color: #fff;
+    border-color:  #02be6e;
+    margin: -1px 20px 0 15px;
+    padding: 6px 27px;
+    text-shadow: none;
+    font-size: 14px;
+    font-weight: 400
+}
+
+#content {
+    padding-bottom: 15px;
+}
+
+.main-content {
+    zoom: 1;
+}
+
+.background-container {
+    position: relative;
+    text-align: center;
+    color: white;
+    background-size: cover;
+    
+  
+   
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    white-space: nowrap;
+    line-height: 1.5px;
+    
+}
+
+
+
+.search-box {
+    margin-left: -37px;
+    margin-right: -29px;
+    margin-top: 37px;
+    
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+    line-height: 2px;
+    height: 56px;
+    background-color: #ffffff;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 3.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.image-container {
+    margin-top: 5px;
+    margin-left: 2px;
+}
+
+.discover-btn {
+    margin-left: 582px;
+    margin-top: 20px;
+    width: 242px;
+    height: 60px;
+    font-size: 22px;
+}
+
+.footer-text {
+    text-align: center;
+    max-width: 1024px;
+    margin: auto;
+    padding: 100px 20px 0;
+}
+
+#footer-title {
+    margin-top: 1px;
+}
+
+
+
+
+  
+
+
+
+
+
